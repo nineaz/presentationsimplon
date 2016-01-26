@@ -2,7 +2,7 @@
 
 #Qu'est ce que Simplon ?
 
-Simplon est un startup à Montreuil, qui permet à des personnes avec des profils peu couarnts dans la profession (sans diplome, déficience physique, des jeunes des quartiers défavorisés ) de se former à la production de code informatiques. C'est ce qui fait son côté social et solidaire. Le groupe d'apprenant est très **hétérogène**.
+Simplon est un startup à Montreuil, qui permet à des personnes avec des profils peu courants dans la profession (sans diplome, déficience physique, des jeunes des quartiers défavorisés ) de se former à la production de code informatiques. C'est ce qui fait son côté social et solidaire. Le groupe d'apprenant est très **hétérogène**.
 
 
 #Qu'est ce que tu y fais toi ?
